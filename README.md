@@ -1,5 +1,5 @@
 # ESP-COMMS-Master-Server
-Master server that issues commands to ESP32 devices running ESP-COMMS.
+NodeJS based Master server that issues commands to ESP32 devices running ESP-COMMS.
 
 ## Current functionality
 ### Turning on-board LED On/Off through Web server
